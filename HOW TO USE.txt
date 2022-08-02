@@ -1,0 +1,8 @@
+cracked by vroom
+
+Open "Extreme Injector v3.exe"
+Open "slap.exe"
+If Extreme Injector v3 closes, then slap is now working, enjoy!
+
+As far as I know, Lunar Client isn't supported.
+Slap doesnt work with Process Hacker open btw, so make sure its closed.
